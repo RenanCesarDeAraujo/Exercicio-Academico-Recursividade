@@ -1,0 +1,14 @@
+E:\FACULDADES\3º SEMESTRE\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\bin\Debug\Ex_1 Recursividade.exe.config
+E:\FACULDADES\3º SEMESTRE\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\bin\Debug\Ex_1 Recursividade.exe
+E:\FACULDADES\3º SEMESTRE\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\bin\Debug\Ex_1 Recursividade.pdb
+E:\FACULDADES\3º SEMESTRE\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\obj\Debug\Ex_1 Recursividade.csproj.AssemblyReference.cache
+E:\FACULDADES\3º SEMESTRE\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\obj\Debug\Ex_1 Recursividade.csproj.CoreCompileInputs.cache
+E:\FACULDADES\3º SEMESTRE\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\obj\Debug\Ex_1 Recursividade.exe
+E:\FACULDADES\3º SEMESTRE\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\obj\Debug\Ex_1 Recursividade.pdb
+E:\FACULDADES\TERMOMECANICA\3 º Semestre\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\bin\Debug\Ex_1 Recursividade.exe.config
+E:\FACULDADES\TERMOMECANICA\3 º Semestre\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\bin\Debug\Ex_1 Recursividade.exe
+E:\FACULDADES\TERMOMECANICA\3 º Semestre\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\bin\Debug\Ex_1 Recursividade.pdb
+E:\FACULDADES\TERMOMECANICA\3 º Semestre\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\obj\Debug\Ex_1 Recursividade.csproj.AssemblyReference.cache
+E:\FACULDADES\TERMOMECANICA\3 º Semestre\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\obj\Debug\Ex_1 Recursividade.csproj.CoreCompileInputs.cache
+E:\FACULDADES\TERMOMECANICA\3 º Semestre\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\obj\Debug\Ex_1 Recursividade.exe
+E:\FACULDADES\TERMOMECANICA\3 º Semestre\ESTRUTURA DE DADOS\EXERCÍCIOS\Ex_1 Recursividade\Ex_1 Recursividade\obj\Debug\Ex_1 Recursividade.pdb
